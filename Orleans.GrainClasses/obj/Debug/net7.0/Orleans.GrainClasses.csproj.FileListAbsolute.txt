@@ -1,0 +1,15 @@
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainClasses\obj\Debug\net7.0\Orleans.GrainClasses.csproj.AssemblyReference.cache
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainClasses\bin\Debug\net7.0\Orleans.GrainClasses.deps.json
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainClasses\bin\Debug\net7.0\Orleans.GrainClasses.dll
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainClasses\bin\Debug\net7.0\Orleans.GrainClasses.pdb
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainClasses\bin\Debug\net7.0\Orleans.GrainInterfaces.dll
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainClasses\bin\Debug\net7.0\Orleans.GrainInterfaces.pdb
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainClasses\obj\Debug\net7.0\Orleans.GrainClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainClasses\obj\Debug\net7.0\Orleans.GrainClasses.AssemblyInfoInputs.cache
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainClasses\obj\Debug\net7.0\Orleans.GrainClasses.AssemblyInfo.cs
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainClasses\obj\Debug\net7.0\Orleans.GrainClasses.csproj.CoreCompileInputs.cache
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainClasses\obj\Debug\net7.0\Orleans.GrainClasses.csproj.CopyComplete
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainClasses\obj\Debug\net7.0\Orleans.GrainClasses.dll
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainClasses\obj\Debug\net7.0\refint\Orleans.GrainClasses.dll
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainClasses\obj\Debug\net7.0\Orleans.GrainClasses.pdb
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainClasses\obj\Debug\net7.0\ref\Orleans.GrainClasses.dll
