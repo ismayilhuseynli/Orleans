@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "PhxhUu2oN+ZZEDUWoJgswY27s/cK3WC+ZV+1YwfwbmDPX/Jy+333maNqs0fqI/PUXwUOLB5aia6R8D7hbgY6Ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Intetics\\Desktop\\Training\\Orleans\\Orleans.GrainInterfaces\\Orleans.GrainInterfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Intetics\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Intetics\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Intetics\\.nuget\\packages\\microsoft.extensions.dependencymodel\\7.0.0\\microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
+    "C:\\Users\\Intetics\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\Intetics\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Intetics\\.nuget\\packages\\microsoft.extensions.objectpool\\7.0.0\\microsoft.extensions.objectpool.7.0.0.nupkg.sha512",
+    "C:\\Users\\Intetics\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Intetics\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Intetics\\.nuget\\packages\\microsoft.orleans.codegenerator\\7.1.0\\microsoft.orleans.codegenerator.7.1.0.nupkg.sha512",
+    "C:\\Users\\Intetics\\.nuget\\packages\\microsoft.orleans.core.abstractions\\7.1.0\\microsoft.orleans.core.abstractions.7.1.0.nupkg.sha512",
+    "C:\\Users\\Intetics\\.nuget\\packages\\microsoft.orleans.serialization\\7.1.0\\microsoft.orleans.serialization.7.1.0.nupkg.sha512",
+    "C:\\Users\\Intetics\\.nuget\\packages\\microsoft.orleans.serialization.abstractions\\7.1.0\\microsoft.orleans.serialization.abstractions.7.1.0.nupkg.sha512",
+    "C:\\Users\\Intetics\\.nuget\\packages\\system.io.hashing\\7.0.0\\system.io.hashing.7.0.0.nupkg.sha512",
+    "C:\\Users\\Intetics\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Intetics\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

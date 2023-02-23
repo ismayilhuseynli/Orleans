@@ -1,0 +1,12 @@
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainInterfaces\obj\Debug\net7.0\Orleans.GrainInterfaces.csproj.AssemblyReference.cache
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainInterfaces\bin\Debug\net7.0\Orleans.GrainInterfaces.deps.json
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainInterfaces\bin\Debug\net7.0\Orleans.GrainInterfaces.dll
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainInterfaces\bin\Debug\net7.0\Orleans.GrainInterfaces.pdb
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainInterfaces\obj\Debug\net7.0\Orleans.GrainInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainInterfaces\obj\Debug\net7.0\Orleans.GrainInterfaces.AssemblyInfoInputs.cache
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainInterfaces\obj\Debug\net7.0\Orleans.GrainInterfaces.AssemblyInfo.cs
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainInterfaces\obj\Debug\net7.0\Orleans.GrainInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainInterfaces\obj\Debug\net7.0\Orleans.GrainInterfaces.dll
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainInterfaces\obj\Debug\net7.0\refint\Orleans.GrainInterfaces.dll
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainInterfaces\obj\Debug\net7.0\Orleans.GrainInterfaces.pdb
+C:\Users\Intetics\Desktop\Training\Orleans\Orleans.GrainInterfaces\obj\Debug\net7.0\ref\Orleans.GrainInterfaces.dll
