@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SUpO86M7qkRi+ixFcACkghbz1Oe41VNVaZrdqpbH4do=",
+  "Source": "Orleans.WebApi",
+  "BasePath": "_content/Orleans.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
